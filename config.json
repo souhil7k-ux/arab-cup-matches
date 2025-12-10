@@ -1,0 +1,8 @@
+{
+  "tournament": "Arab Cup",
+  "source_type": "wikipedia",
+  "wikipedia_page": "https://en.wikipedia.org/wiki/2021_FIFA_Arab_Cup",
+  "timezone": "Africa/Algiers",
+  "date_format": "%Y-%m-%dT%H:%M:%SZ",
+  "look_for": ["Arab Cup", "FIFA Arab Cup", "Arab Cup 2021"]
+}
