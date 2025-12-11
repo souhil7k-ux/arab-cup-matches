@@ -36,4 +36,3 @@ jobs:
           git add matches.json || true
           git commit -m "Automated update matches.json [ci skip]" || echo "no changes"
           git push origin HEAD:main || echo "push failed - check permissions"
-
